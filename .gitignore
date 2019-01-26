@@ -2,3 +2,4 @@
 ll_env/
 .vscode/
 migrations/
+*.sqlite3
